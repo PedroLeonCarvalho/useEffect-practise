@@ -1,6 +1,9 @@
 # Praticando useEfect do REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-Consome uma API (com json-server) de nomes de raças de cachorros
+-Realiza busca por nome desta api
+
+  [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
